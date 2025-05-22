@@ -1,0 +1,11 @@
+streamlit==1.45.0
+yfinance==0.2.57
+google-generativeai
+python-dotenv
+requests
+pandas
+matplotlib
+plotly
+certifi
+scikit-learn
+
